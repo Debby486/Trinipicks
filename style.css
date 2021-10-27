@@ -1,0 +1,199 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.header{
+    height: 100vh;
+}
+
+.navbar-style{
+    background-color: #e3f4fe;
+}
+
+.navbar-btn{
+    background-color: #000080;
+    color: #fff;
+}
+
+.nav-play{
+    margin: 0px 0px;
+    background-color: #FFA500;
+}
+
+.logo{
+    padding: 2px 10px;
+}
+
+.icon-bar{
+    background-color: #FFA500;
+}
+
+li a{
+   color: #000080; 
+}
+
+.play-btn{
+    background-color: #FFA500;
+    border-radius: 5px;
+    border: none;
+    text-transform: uppercase;
+    padding: 4px 10px;
+    color: #000080;
+    font-weight: 700;
+    font-size: 15px;
+}
+
+.row{
+    margin: 10px 0;
+}
+
+.row h1{
+    margin-bottom: 0px;
+}
+
+.vector{
+    margin-top: 120px;
+}
+
+.vector img{
+    height: 70px;
+}
+
+.big-text{
+    font-size: 32px;
+    margin-bottom: 20px;
+    color: #FFA500;
+}
+
+.copyright{
+    margin-top: 10px;
+}
+
+/* footer styling */
+.footer-top{
+    background-color: #e3f4fe;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+
+.row{
+    margin-top: 20px;
+}
+
+p{
+    color: #00334F;
+    font-weight: 700;
+}
+
+.segment-one p{
+    padding-bottom: 15px;
+    font-size: 12px;
+}
+
+.segment-one ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.segment-one ul li{
+    padding-bottom: 10px;
+}
+
+.segment-one ul li a{
+    text-decoration: none;
+}
+
+.segment-one a{
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+.fa-facebook{
+    background-color: #00334F;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+.fa-twitter{
+    background-color: #87CEEB;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+.fa-instagram{
+    background-color: #E1306C;
+    width: 40px;
+    height: 40px;
+    display: inline-block;
+    border-radius: 50%;
+}
+
+.segment-one a i{
+    font-size: 20px;
+    color: #fff;
+    padding: 10px 12px;
+}
+
+.segment-two ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.segment-two ul li{
+    padding-bottom: 10px;
+}
+
+.segment-two ul li a{
+    text-decoration: none;
+    color: #808080;
+}
+
+.segment-three ul{
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+.segment-three ul li{ 
+    padding-bottom: 10px;
+}
+
+.segment-three ul li a{
+    text-decoration: none;
+    color: #808080;
+
+}
+
+.segment-four form input[type=email]{
+    padding: 8px 15px;
+    font-size: 20px;   
+}
+
+.segment-four form input[type=submit]{
+    background-color: #00334F;
+    border: none;
+    color: #fff;
+    padding: 15px 15px 12px 15px;
+    margin-left: -5px;
+    font-size: 15px;
+   
+}
+
+.footer-bottom-text{
+    background-color: #00334F;
+    color: #fff;
+    font-size: 12px;
+    font-weight: 100;
+    line-height: 65px;
+    margin-left: 10px;
+    text-align: center;
+}
